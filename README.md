@@ -13,7 +13,7 @@ This is for an asignment at mohawk college
 
 ## Image 
 
-![Myimage](1.jpg)
+![Myimage](./1.jpg)
 
 ## Link 
 
